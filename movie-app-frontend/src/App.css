@@ -1,0 +1,13 @@
+.btn {
+  @apply rounded-full;
+}
+.logo{
+  color: white;
+}
+.bg-dark{
+  background-color: rgb(64, 64, 64);
+}
+
+.carousel{
+  height: 50vh;
+}
